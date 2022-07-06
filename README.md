@@ -22,6 +22,14 @@ SESS is a method and model agnostic extension to existing saliency map generatio
 <img align="center" width="800" src="assets/sess_q1.png">
 
 
-#
+# Requirements
+PIL
+cv2
+matplotlib
+numpy
+torch
+torchvision
+
+# Other
 - Note some parts of the codes are taken from [[group-CAM]](https://github.com/wofmanaf/Group-CAM)
 - If you have any questions, feel free to open an issue
